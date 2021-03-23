@@ -129,3 +129,16 @@ C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\
 C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Views\Profie\Index.cshtml.g.cs
 C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Areas\Admin\Views\DashBoard\Index.cshtml.g.cs
 C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\_ViewImports.cshtml.g.cs
+C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Areas\Admin\Views\Account\Index.cshtml.g.cs
+C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Areas\Admin\Views\Hashtag\Index.cshtml.g.cs
+C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Areas\Admin\Views\Profie\Index.cshtml.g.cs
+C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Areas\Admin\Views\Rating\Index.cshtml.g.cs
+C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Areas\Admin\Views\SocialUser\Index.cshtml.g.cs
+C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Areas\Admin\Views\View\Index.cshtml.g.cs
+C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Areas\Admin\Views\Menu\Index.cshtml.g.cs
+C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Areas\Admin\Views\Footer\Index.cshtml.g.cs
+C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Areas\Admin\Views\SocialWeb\Index.cshtml.g.cs
+C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Areas\Admin\Views\IndexPage\Index.cshtml.g.cs
+C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Areas\Admin\Views\AboutPage\Index.cshtml.g.cs
+C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Areas\Admin\Views\ContactPage\Index.cshtml.g.cs
+C:\Users\Win\Source\Repos\Portfoliofinal\PortfolioOnline\obj\Debug\net5.0\Razor\Areas\Admin\Views\ServicePage\Index.cshtml.g.cs
