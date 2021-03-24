@@ -6232,19 +6232,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Win\\.nuget\\packages\\": {}
+    "C:\\Users\\acer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Win\\Source\\Repos\\Portfoliofinal\\PortfolioOnline\\PortfolioOnline.csproj",
+      "projectUniqueName": "C:\\Users\\acer\\Source\\Repos\\Portfoliofinaltest\\PortfolioOnline\\PortfolioOnline.csproj",
       "projectName": "PortfolioOnline",
-      "projectPath": "C:\\Users\\Win\\Source\\Repos\\Portfoliofinal\\PortfolioOnline\\PortfolioOnline.csproj",
-      "packagesPath": "C:\\Users\\Win\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Win\\Source\\Repos\\Portfoliofinal\\PortfolioOnline\\obj\\",
+      "projectPath": "C:\\Users\\acer\\Source\\Repos\\Portfoliofinaltest\\PortfolioOnline\\PortfolioOnline.csproj",
+      "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\acer\\Source\\Repos\\Portfoliofinaltest\\PortfolioOnline\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Win\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6293,7 +6293,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
